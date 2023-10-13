@@ -3,7 +3,7 @@
 
 <p>Aprenda nomes de cores em espanhol usando blocos de cores</p>
 
-<h2>Recusos utilizado</h2>
+<h2>Recursos utilizado</h2>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
